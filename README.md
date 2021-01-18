@@ -12,12 +12,22 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Useful Resources
 https://wweb.dev/resources/css-separator-generator
+
 https://mdbootstrap.com/docs/angular/content/icons-list/?
+
 https://animate.style/
+
 https://uicookies.com/css-divider/
+
 https://cssgradient.io/
+
 https://bansal.io/pattern-css
+
 https://www.heropatterns.com/
+
 https://bennettfeely.com/clippy/
+
 https://www.pexels.com/
+
 https://realfavicongenerator.net/
+
